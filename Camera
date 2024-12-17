@@ -1,8 +1,8 @@
 import cv2
 from ultralytics import YOLO
 
-model = YOLO(r"D:\retrain yolo\weights\best.pt")
-cap = cv2.VideoCapture(1)  
+model = YOLO("retrain yolo/weights/best.pt")
+cap = cv2.VideoCapture(0)  
 
 while True:
     ret, frame = cap.read() 
