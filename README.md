@@ -58,7 +58,7 @@ Validation results are analyzed using:
 The trained model is saved and deployed for real-time object detection using a webcam.
 
 ### Output from Camera:
-**Video Result:** [Link to Video]([https://drive.google.com/file/d/1c8kQFSusNYsHScf_s2Ib4jJws-MZ3VYh/view?usp=sharing])
+**Video Result:** [Link to Video](https://drive.google.com/file/d/1c8kQFSusNYsHScf_s2Ib4jJws-MZ3VYh/view?usp=sharing)
 
 ---
 
